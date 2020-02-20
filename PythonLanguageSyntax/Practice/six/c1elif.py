@@ -1,4 +1,3 @@
-import practice.Seven.c4
 a = input()
 print("a is "+a)
 if a == "1":

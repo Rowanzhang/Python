@@ -1,3 +1,7 @@
 {
-    "python.linting.flake8Enabled":true
+    "python.linting.flake8Enabled": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.idea": true
+    }
 }
