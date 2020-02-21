@@ -1,1 +1,2 @@
-print(__package__)
+y = 7
+print(y)
