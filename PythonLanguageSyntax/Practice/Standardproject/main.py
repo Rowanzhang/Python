@@ -1,1 +1,2 @@
-import   package1.file1.f1
+import package1.file1.f1
+print(__file__)
